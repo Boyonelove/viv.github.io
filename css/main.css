@@ -141,7 +141,7 @@ footer a:not(.nav-link) {
     transform: translate(0) scale(1) !important; 
   }
   body.bg-light {
-    background-color: #fff !important; 
+    background-color: #000 !important; 
   }
   .container {
     width: auto;
